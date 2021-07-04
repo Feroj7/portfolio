@@ -20,6 +20,7 @@ h1{
     display: flex;
     background-image:url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom:50px;
 }
 .half-width{
     width:50%;
@@ -30,4 +31,7 @@ h1{
 }
 .half-width img{
     width:100%;
+}
+.mid-section{
+    display:flex;
 }
