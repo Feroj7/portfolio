@@ -56,6 +56,9 @@ h2{
     background-image: url(images/exp-bg.png);
     background-repeat:no-repeat;
 }
+.experience-section h1{
+    padding-left:40px;
+}
 #item1{
     border-left: 7px solid;
     border-image: linear-gradient( lightsalmon, tomato);
